@@ -4,6 +4,8 @@ const FeaturedItem = () => {
   return (
     <div>
       Featured ITem 
+
+      adding some code 
     </div>
   )
 }
